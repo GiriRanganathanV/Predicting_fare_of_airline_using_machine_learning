@@ -15,7 +15,7 @@ Spitting train and test data set and cross validation using Linear regression
 Implementing multiple machine learning models and predicting the accuracy
 
 # Machine learning models build:
-Linear regression
-KNN
-Decision tree
-RandomForest
+  Linear regression
+    KNN
+      Decision tree
+        RandomForest
