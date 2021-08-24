@@ -8,14 +8,14 @@ The objective of the project is to build and compare different machine learning 
 The data set consists of 11 attributes and 10683 observations. The dataset needs preprocessing since it consists of missing values and also outlier treatment is required to handle the outliers before building the models.
 
 # Workflow:
-Data preprocessing and data type conversion to timestamp
-Handling categorical data using LabelEncoder & OneHotEncoder
-Treating the outliers and feature selection
-Spitting train and test data set and cross validation using Linear regression 
-Implementing multiple machine learning models and predicting the accuracy
+Data preprocessing and data type conversion to timestamp  
+Handling categorical data using LabelEncoder & OneHotEncoder  
+Treating the outliers and feature selection  
+Spitting train and test data set and cross validation using Linear regression   
+Implementing multiple machine learning models and predicting the accuracy  
 
 # Machine learning models build:
-  Linear regression
-    KNN
-      Decision tree
-        RandomForest
+ Linear regression  
+ KNN  
+ Decision tree  
+ RandomForest
